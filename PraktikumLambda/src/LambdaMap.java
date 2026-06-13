@@ -11,6 +11,7 @@
 /* Nama File  : LambdaMap.java
  * Deskripsi  : Menampilkan key (NIM) dan value (nama) dari Map menggunakan lambda.
  * Pembuat    : Amelia Aristianti / 24060124120008
+ * SOURCE CODE LATIHAN
  */
 
 import java.util.HashMap;
